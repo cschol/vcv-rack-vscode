@@ -1,7 +1,7 @@
 # Visual Studio Code configuration for VCV Rack development
 
-This repository contains a set of configuration files for setting up (Visual Studio Code)[https://code.visualstudio.com/]
-for development of (VCV Rack)[https://vcvrack.com/] on the Windows platform using the `MinGW` tool chain.
+This repository contains a set of configuration files for setting up [Visual Studio Code](https://code.visualstudio.com/)
+for development of [VCV Rack](https://vcvrack.com/) on the Windows platform using the `MinGW` tool chain.
 
 The configuration supports
 
